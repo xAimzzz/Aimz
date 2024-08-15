@@ -29,9 +29,9 @@ require("./all/module.js")
 const { color } = require('./all/function')
 const version = require("@whiskeysockets/baileys/package.json").version
 //========== Setting Owner ==========//
-global.owner = "4917661566718"
+global.owner = "31684036501"
 global.namaowner = "interneths"
-global.namaowner2 = "AnggazyyDev"
+global.namaowner2 = "interneths"
 
 //======== Setting Bot & Link ========//
 global.namabot = "Devil 4.0 Gen 1" 
